@@ -1,5 +1,4 @@
-# Welkom op de super geheime projecten github pagina van Xaveer!
-## Hier gebeurd af en toe een keer wat als de zin er naar is of er is alcohol in het spel :beer:
+# Welkom op bij de super coole geheime kompjutor projecten github pagina van Xaveer!
 
 <!---
 xaveervanderlaan/xaveervanderlaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
