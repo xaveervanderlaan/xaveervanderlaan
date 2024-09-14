@@ -1,4 +1,4 @@
-# Welkom op de super geheime projecten github pagina van Xaveer van der Laan :)
+# Welkom op de super geheime projecten github pagina van Xaveer!
 ## Hier gebeurd af en toe een keer wat als de zin er naar is of er is alcohol in het spel :beer:
 
 <!---
