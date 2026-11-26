@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/birds.svg" alt="Pixel-art kiwi and American woodcock hopping around" width="420">
+</p>
 
 <img src="./assets/lava-pixels.svg" alt="Pixel-art lava animation" width="100%">
 
