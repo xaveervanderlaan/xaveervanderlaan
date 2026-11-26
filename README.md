@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="./assets/lava-lamp.svg" alt="Animated lava lamp" width="160">
-</p>
+<img src="./assets/lava-pixels.svg" alt="Pixel-art lava animation" width="100%">
 
 <!--
 **xaveervanderlaan/xaveervanderlaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
